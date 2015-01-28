@@ -25,7 +25,7 @@
 	// afficher le header
 	include( 'header.php' );
 	// afficher le contenu
-	echo $row 
+	echo $row; 
 	// afficher le footer
 	include( 'footer.php' );
-
+?>
